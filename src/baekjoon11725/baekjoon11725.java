@@ -1,4 +1,4 @@
-package graph_traversal;
+package baekjoon11725;
 
 public class baekjoon11725 {
 
